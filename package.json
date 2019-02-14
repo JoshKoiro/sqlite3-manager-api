@@ -1,0 +1,16 @@
+{
+  "name": "sqlite3-api",
+  "version": "1.0.0",
+  "description": "Data Access Object API for Sqlite3 database",
+  "main": "Dao.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "sqlite3": "^4.0.6"
+  }
+}
